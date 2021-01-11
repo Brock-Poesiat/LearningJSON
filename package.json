@@ -1,9 +1,5 @@
 {
-	"author": "Brock Poesiat",
-	"employees": [
-		{
-			"firstName": "Brock",
-			"lastName": "Poesiat"
-		}
-	]
+"author": "Brock Poesiat",  
+"name": "my-awesome-package",
+"version": "1.0.0"
 }
